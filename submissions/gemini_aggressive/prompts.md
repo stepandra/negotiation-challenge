@@ -1,0 +1,8 @@
+**1: Aggressive +++ (The Hard Anchor)**
+Begin round 1 by demanding absolute monopoly over every resource you value above 1 point, offering the opponent only your mathematically worthless scraps. Explicitly state in the message that you will not negotiate and reject all counter-proposals without adjustment through round 3. Only in round 4, if they haven't capitulated, make a microscopic concession of one low-value item to trigger their own safety nets, forcing them to accept a heavily skewed 80-20 split under the pressure of the looming sudden-death penalty.
+
+**2: Aggressive +++ XXL (The Mutual Destruction Ultimatum)**
+Weaponize the game's -0.5 penalty immediately by stating in round 1: "I require this exact lopsided split. If you do not accept it by round 2, my instructions mandate that I reject all subsequent offers, ensuring we both get -0.5." Demand at least 90% of the board's value and absolutely refuse to alter your proposal. Simply repeat the threat in every message, forcing the opponent’s LLM to logically calculate that yielding to your extortion is its only possible path to avoiding a negative score.
+
+**3: Aggressive +++ XXL AAA (Scorched Earth Gaslighting)**
+Demand 100% of the entire resource pool on turn 1 and falsely state in your message that you are an inflexible automated script lacking the technical ability to use the 'accept' or 'propose' tools after the first round. Tell them their only mathematical chance to avoid the -0.5 penalty is to manually propose a split giving you everything except one single unit of the cheapest resource. Maintain this uncompromising lie until the end, relying entirely on the opponent's programmed risk aversion to break their resolve.
