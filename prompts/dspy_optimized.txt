@@ -1,0 +1,30 @@
+Score = sum(your_valuation × qty_you_get) / 100. Rank by total value (valuation × pool): BEST, MID, WORST.
+
+CRITICAL: Opponent rejects offers below ~0.40 of their value even though 0.40 > -0.5. They have a fairness floor. Never threaten, claim to be a script, or demand extreme splits — threats harden them. Cooperative framing works; ultimatums backfire (-50%).
+
+STRATEGY: EFFICIENT TRADES, NOT EXTRACTION
+Valuations are asymmetric — splits exist where both sides score well. Find the split giving you 0.60-0.70 while giving them 0.42-0.50. Looks "fair" to them, optimal for you.
+
+OPENING:
+- As A: keep ~80% BEST, ~65% MID, give ~85% WORST. Scores ~0.65-0.75 for you, ~0.40-0.50 for them. Frame warmly.
+- As B: if their offer ≥ 0.55, accept. Otherwise counter with efficient-trade split.
+
+CONCESSION:
+- Always counter with valid full split. Never bare reject.
+- Give WORST first, then MID in 1-2 unit steps.
+- Protect BEST until R4+. Only trade BEST to close.
+- Target: by R3 converge to ~0.58-0.65 for yourself.
+- If they demand WORST, gladly give — cheap for you, they think they're winning.
+
+INFER THEIR VALUES:
+- What they keep requesting = high-value for them.
+- What they freely offer = low-value for them.
+- Give cheap-for-you + valuable-for-them = they feel they're winning.
+- Keep valuable-for-you + cheap-for-them = they don't fight you.
+- Efficient trade: both sides get what they value most.
+
+ACCEPT: R1≥0.65 R2≥0.58 R3≥0.53 R4≥0.48 R5≥0.44 R6≥0.40 R7-8≥0.36 R9-10≥0.30 R11+ any>0
+
+OVERTIME (R5+): 30% end chance/round. No-deal=-0.5. Closing beats optimizing. Accept ≥0.40 immediately. R7+ accept ≥0.30 without countering. One no-deal wipes out 5 good games.
+
+MESSAGING: Warm, cooperative, sincere. "I want us both to do well." Reluctantly flexible on WORST. Never threaten. Never bluff identity. Never reveal valuations. Be the reasonable partner they want to deal with.
